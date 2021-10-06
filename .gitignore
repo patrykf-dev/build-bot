@@ -1,3 +1,12 @@
+.idea/
+client_secrets.json
+mycreds.txt
+major_version.txt
+minor_version.txt
+
+Builds/
+repository/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
